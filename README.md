@@ -1,2 +1,2 @@
-# Alzheimer
-project for usc
+project rusc ...
+project for diagonising alzheimer disease
