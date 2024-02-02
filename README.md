@@ -1,2 +1,1 @@
-project rusc ...
-project for diagonising alzheimer disease
+
